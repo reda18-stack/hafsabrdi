@@ -38,5 +38,5 @@ const interval = setInterval(() => {
 
 // 🎁 Redirect to your surprise
 function goToSurprise() {
-  window.location.href = "https://reda18-stack.github.io/story-of-my-angel/"; // replace this
+  window.location.href = "https://reda18-stack.github.io/hafsabrthday/"; // replace this
 }
